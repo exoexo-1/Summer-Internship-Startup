@@ -1,5 +1,4 @@
 # Meta Ads Scraper — Chrome Extension Module
-**File:** `meta.js`  
 **Purpose:** Core logic for scraping, storing, and displaying ads from the **Facebook Ads Library** within the Chrome extension.
 
 ---
