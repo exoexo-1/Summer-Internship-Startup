@@ -2,6 +2,7 @@
 
 https://github.com/user-attachments/assets/50f75de9-ad67-4865-9572-0aa1fedc3db9
 
+### Good News: you can now check and use extension on https://chromewebstore.google.com/detail/google-business-extractor/apnonaffmciemiacjgmalagdpojoajho
 
 # Meta Ads Scraper for Business (Chrome Extension)
 
