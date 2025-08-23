@@ -13,4 +13,5 @@ https://github.com/user-attachments/assets/8fe60f98-0d82-411a-8cd1-0c11b05e6ae7
 Checkout the full extension here: https://chromewebstore.google.com/detail/shopify-products-download/ccbmjjcmoaiiebhodnmjekhbmgcakjhb?pli=1 <br>
 *Note*: *Meta ads section might not be added in the deployed extension yet*
 <br>
-## *code is owned by startup, i cant open souce code*
+## 📜 Copyright
+*code is owned by mergeline.in , i cant open souce code*
