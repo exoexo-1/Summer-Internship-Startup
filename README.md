@@ -1,6 +1,6 @@
 # 🏢 Google Map Business Scraper (Chrome Extension)
-
-![Demo](https://github.com/user-attachments/assets/50f75de9-ad67-4865-9572-0aa1fedc3db9)
+demo:
+https://github.com/user-attachments/assets/50f75de9-ad67-4865-9572-0aa1fedc3db9
 
 ### ✅ Good News  
 You can now try the extension live on the Chrome Web Store:  
@@ -10,7 +10,8 @@ You can now try the extension live on the Chrome Web Store:
 
 # 📊 Meta Ads Scraper for Business (Chrome Extension)
 
-![Demo](https://github.com/user-attachments/assets/8fe60f98-0d82-411a-8cd1-0c11b05e6ae7)
+demo:
+https://github.com/user-attachments/assets/8fe60f98-0d82-411a-8cd1-0c11b05e6ae7
 
 Checkout the deployed extension here:  
 👉 [Shopify Products Downloader](https://chromewebstore.google.com/detail/shopify-products-download/ccbmjjcmoaiiebhodnmjekhbmgcakjhb?pli=1)  
@@ -25,7 +26,7 @@ These Chrome extensions were built during my **internship at [MergeLine](http://
 
 ## 📜 Certificate  
 I successfully completed my internship at **MergeLine** and received an official certificate recognizing my contributions to Chrome extension development and AI-powered business data automation. 
-<img width="1171" height="830" alt="image" src="https://github.com/user-attachments/assets/a1febbfc-f51e-4f33-9ca4-7ad933c24c83" />
+https://drive.google.com/file/d/1BH2NwqoLQOIq3kWlY1den7sq5_h2egN_/view?usp=sharing
 
 
 ---
