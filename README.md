@@ -27,6 +27,7 @@ These Chrome extensions were built during my **internship at [MergeLine](http://
 
 ## 📜 Certificate  
 I successfully completed my internship at **MergeLine** and received an official certificate recognizing my contributions to Chrome extension development and AI-powered business data automation.  
+![Certificate](https://drive.google.com/file/d/1BH2NwqoLQOIq3kWlY1den7sq5_h2egN_/view?usp=sharing)
 
 ---
 
