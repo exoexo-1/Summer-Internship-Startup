@@ -1,20 +1,29 @@
-# Google Map Business Scraper (chrome Extension)
+# 🏢 Google Map Business Scraper (Chrome Extension)
 
 https://github.com/user-attachments/assets/50f75de9-ad67-4865-9572-0aa1fedc3db9
 
-### Good News: 
+### ✅ Good News  
 *you can now check and use extension on* https://chromewebstore.google.com/detail/google-business-extractor/apnonaffmciemiacjgmalagdpojoajho
 
-# Meta Ads Scraper for Business (Chrome Extension)
+# 📊 Meta Ads Scraper for Business (Chrome Extension)
 
 https://github.com/user-attachments/assets/8fe60f98-0d82-411a-8cd1-0c11b05e6ae7
 
 
 Checkout the full extension here: https://chromewebstore.google.com/detail/shopify-products-download/ccbmjjcmoaiiebhodnmjekhbmgcakjhb?pli=1 <br>
 *Note*: *Meta ads section might not be added in the deployed extension yet*
-<br>
-## 📜 Copyright
-*code is owned by mergeline.in , i cant open souce code*
+---
+## 🌐 About  
+These Chrome extensions were built during my **internship at [MergeLine](http://mergeline.in/)**, where I worked on developing **high-performance lead generation tools** using Google Maps and Meta Ads scraping pipelines.  
+---
 
 
-update this readme add the company website link mergeline.in and also i have my certificate now so..
+## 📜 Certificate  
+I successfully completed my internship at **MergeLine** and received an official certificate recognizing my contributions to Chrome extension development and AI-powered business data automation.  
+
+---
+
+## ⚠️ Copyright Notice  
+The source code for these extensions is **owned by [MergeLine](http://mergeline.in/)** and cannot be open-sourced. This repository serves only as a **portfolio showcase** of my work.
+
+
