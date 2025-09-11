@@ -1,22 +1,29 @@
+
+
 # 🏢 Google Map Business Scraper (Chrome Extension)
 
 https://github.com/user-attachments/assets/50f75de9-ad67-4865-9572-0aa1fedc3db9
 
 ### ✅ Good News  
-*you can now check and use extension on* https://chromewebstore.google.com/detail/google-business-extractor/apnonaffmciemiacjgmalagdpojoajho
+You can now try the extension live on the Chrome Web Store:  
+👉 [Google Business Extractor](https://chromewebstore.google.com/detail/google-business-extractor/apnonaffmciemiacjgmalagdpojoajho)
+
+---
 
 # 📊 Meta Ads Scraper for Business (Chrome Extension)
-
 https://github.com/user-attachments/assets/8fe60f98-0d82-411a-8cd1-0c11b05e6ae7
 
 
-Checkout the full extension here: https://chromewebstore.google.com/detail/shopify-products-download/ccbmjjcmoaiiebhodnmjekhbmgcakjhb?pli=1 <br>
-*Note*: *Meta ads section might not be added in the deployed extension yet*
----
-## 🌐 About  
-These Chrome extensions were built during my **internship at [MergeLine](http://mergeline.in/)**, where I worked on developing **high-performance lead generation tools** using Google Maps and Meta Ads scraping pipelines.  
+Checkout the deployed extension here:  
+👉 [Shopify Products Downloader](https://chromewebstore.google.com/detail/shopify-products-download/ccbmjjcmoaiiebhodnmjekhbmgcakjhb?pli=1)  
+(*Note*: Meta Ads section may not be available in the deployed version yet)
+
 ---
 
+## 🌐 About  
+These Chrome extensions were built during my **internship at [MergeLine](http://mergeline.in/)**, where I worked on developing **high-performance lead generation tools** using Google Maps and Meta Ads scraping pipelines.  
+
+---
 
 ## 📜 Certificate  
 I successfully completed my internship at **MergeLine** and received an official certificate recognizing my contributions to Chrome extension development and AI-powered business data automation.  
